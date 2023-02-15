@@ -12,15 +12,16 @@
 .navbar-brand{
     font-size: 1.9rem !important;
     color: #565387 !important;
+   
 
 }
 .navbar ul a{
     font-size: 1.3rem !important;
     text-transform: capitalize !important;
 }
-.menu_active{
-    font-weight: bold;
-    border-bottom: 1px solid #565387;
+li .active{
+    font-weight: bold !important;
+    border-bottom: 1px solid #565387 !important;
 }
 
 .navbar a:hover{
@@ -32,7 +33,7 @@
         font-size: 1.5rem !important;
     }
 }
-.menu_active{
+.active{
     font-weight: bold;
     border-bottom: none;
 }

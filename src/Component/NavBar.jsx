@@ -23,47 +23,22 @@ const NavBar = () => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <NavLink
-                  onlyActiveOnIndex
-                  exact
-                  activeClassName="menu_active"
-                  className="nav-link"
-                  aria-current="page"
-                  to="/"
-                >
+                <NavLink exact className="nav-link " aria-current="page" to="/">
                   home
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink
-                  onlyActiveOnIndex
-                  exact
-                  activeClassName="menu_active"
-                  className="nav-link"
-                  to="/aboutUs"
-                >
+                <NavLink exact className="nav-link" to="/aboutUs">
                   About
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink
-                  onlyActiveOnIndex
-                  exact
-                  activeClassName="menu_active"
-                  className="nav-link"
-                  to="/service"
-                >
+                <NavLink exact className="nav-link" to="/service">
                   Service
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink
-                  onlyActiveOnIndex
-                  exact
-                  activeClassName="menu_active"
-                  className="nav-link"
-                  to="/contact"
-                >
+                <NavLink exact className="nav-link" to="/contact">
                   ContactUs
                 </NavLink>
               </li>
