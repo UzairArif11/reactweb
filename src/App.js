@@ -5,6 +5,7 @@ import About from "./Component/About";
 import Contact from "./Component/Contact";
 import Service from "./Component/Service";
 import NavBar from "./Component/NavBar";
+import Footer from "./Component/Footer";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 
@@ -24,6 +25,7 @@ const App = () => {
     <>
       <NavBar />
       <Routing />
+      <Footer />
     </>
   );
 };
