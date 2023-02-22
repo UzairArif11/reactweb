@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactweb/static/css/main.9211bc08.css",
+    "main.js": "/reactweb/static/js/main.2f21d089.js",
+    "static/js/787.28cb0dcd.chunk.js": "/reactweb/static/js/787.28cb0dcd.chunk.js",
+    "static/media/sport.jpg": "/reactweb/static/media/sport.05fba74db933112bce91.jpg",
+    "static/media/tel.jpg": "/reactweb/static/media/tel.d77ab8bb185616842efb.jpg",
+    "static/media/contact.jpg": "/reactweb/static/media/contact.a4026777c7429b9bea64.jpg",
+    "static/media/contact3.jpg": "/reactweb/static/media/contact3.a4e011bc7085a0adab83.jpg",
+    "static/media/contact2.jpg": "/reactweb/static/media/contact2.c74147c4b079cc5c52ac.jpg",
+    "static/media/gard.jpg": "/reactweb/static/media/gard.2d580e3334964c9ca1f2.jpg",
+    "static/media/pic1.jpg": "/reactweb/static/media/pic1.76b7bd89426db4de42e4.jpg",
+    "static/media/pic2.jpg": "/reactweb/static/media/pic2.f1cea6e0e2c49112c3ef.jpg",
+    "index.html": "/reactweb/index.html",
+    "main.9211bc08.css.map": "/reactweb/static/css/main.9211bc08.css.map",
+    "main.2f21d089.js.map": "/reactweb/static/js/main.2f21d089.js.map",
+    "787.28cb0dcd.chunk.js.map": "/reactweb/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9211bc08.css",
+    "static/js/main.2f21d089.js"
+  ]
+}
