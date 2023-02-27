@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Mulish:wght@200;400&display=swap");
 
+@import "./sass/variables.scss";
+
 * {
   margin: 0;
   padding: 0;
@@ -19,22 +21,23 @@ body {
 /* Navbar */
 .navbar {
   background-color: #fff !important;
-}
+
 .navbar-brand {
   font-size: 1.9rem !important;
-  color: #565387 !important;
+  color: $brand-clr !important;
 }
-.navbar ul a {
+& ul a {
   font-size: 1.3rem !important;
   text-transform: capitalize !important;
 }
 li .active {
   font-weight: bold !important;
-  border-bottom: 1px solid #565387 !important;
+  border-bottom: 1px solid $brand-clr !important;
 }
 
-.navbar a:hover {
+& a:hover {
   color: #3498db !important;
+}
 }
 
 @media (max-width: 991px) {

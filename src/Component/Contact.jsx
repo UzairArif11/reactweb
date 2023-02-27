@@ -91,7 +91,7 @@ const Contact = () => {
                   className="form-control"
                   id="exampleFormControlTextarea1"
                   rows="3"
-                  name="message"
+                  name="massage"
                   value={data.massage}
                   onChange={InputEvent}
                 ></textarea>
